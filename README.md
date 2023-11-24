@@ -13,4 +13,5 @@ Download everything in our repository
 Step 2: 
 Using alzheimer_resnet18.ipnyb, train the model on your machine. It will take some time, but it will save the weights for the parameters of the model to "model.pth" so you won't have to train it again. 
 
-Step 3: Go to 
+Step 3: 
+Use run_model.py to upload your saved weights and use the model
