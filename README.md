@@ -8,7 +8,9 @@ https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
 
 To use our model: 
 Step 1:
-Download everything in our repository
+Download everything in our repository + dataset from the link. The file structure should be that every category folder of MRI pictures, should be under the main folder "Dataset"
+
+example file path for category subfolders: MAIS202\Brain_Disease_Detection\Dataset\Mild_Demented
 
 Step 2: 
 Using alzheimer_resnet18.ipnyb, train the model on your machine. It will take some time, but it will save the weights for the parameters of the model to "model.pth" so you won't have to train it again. 
